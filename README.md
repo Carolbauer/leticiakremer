@@ -1,6 +1,5 @@
-### Olá! Eu sou a Letícia Kremer👋
-##
-  
+## Olá! Eu sou a Letícia Kremer👋
+
 - :computer: Cursando ADS na Ulbra-Torres-RS
 
 ##
